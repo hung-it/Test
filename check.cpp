@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
 int main (){
-    cout << "Hello World";
+    int a;
+    a =1;
+    cout << "Hello World"<< a;
 }
